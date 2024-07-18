@@ -133,7 +133,17 @@ function App() {
       </Canvas>
       <div className="relative min-h-screen flex flex-col justify-center items-center bg-[#1A2224]">
         <p className="text-[50px]">Made by Bilal Haider</p>
-        <button className="mt-10">Get Code</button>
+        <button
+          className="mt-10"
+          onClick={() =>
+            window.open(
+              "https://github.com/bilalhaider789/phantom3D",
+              "_blank"
+            )
+          }
+        >
+          Get Code
+        </button>
         <div className=" mt-16 flex gap-6 text-[30px]">
           <p>Three.js </p>
           <p>React-Fiber </p>
