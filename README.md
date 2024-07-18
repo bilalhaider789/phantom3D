@@ -1,6 +1,7 @@
 # Phantom 3D Experience
 
-Welcome to the Phantom 3D Experience, a cutting-edge web application showcasing a 3D model with a sleek, modern interface. This project is built using the latest web technologies, including React, Vite, Three.js, React-Fiber, React-Drei, GSAP, and Tailwind CSS.
+Welcome to the Phantom 3D Experience, a cutting-edge web application showcasing a 3D model with a sleek, modern interface. This project is built using the latest web technologies, including React, Vite, Three.js, React-Fiber, React-Drei, GSAP, and Tailwind CSS. Website is live at 
+https://phantom-bilal-dev.surge.sh/
 
 ## Features
 
